@@ -40,8 +40,8 @@ namespace SportsStore.UnitTests.App_Start
         private static IKernel CreateKernel()
         {
             var kernel = new StandardKernel();
-            kernel.Bind<Func<IKernel>>().ToMethod(ctx => () => new Bootstrapper().Kernel);
-            kernel.Bind<IHttpModule>().To<HttpApplicationInitializationHttpModule>();
+            //kernel.Bind<Func<IKernel>>().ToMethod(ctx => () => new Bootstrapper().Kernel);
+            //kernel.Bind<IHttpModule>().To<HttpApplicationInitializationHttpModule>();
             
             RegisterServices(kernel);
             return kernel;
@@ -53,6 +53,7 @@ namespace SportsStore.UnitTests.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
+            
         }        
     }
 }
