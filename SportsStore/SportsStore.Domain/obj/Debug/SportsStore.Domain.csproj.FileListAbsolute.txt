@@ -1,5 +1,8 @@
+C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
@@ -7,6 +10,8 @@ C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
@@ -15,8 +20,4 @@ C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deploy
 C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\doc\Store\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\doc\Store\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
-C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
-C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
-C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
-C:\doc\Store\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\doc\Store\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

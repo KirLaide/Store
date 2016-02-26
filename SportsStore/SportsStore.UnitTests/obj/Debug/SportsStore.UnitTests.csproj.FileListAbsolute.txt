@@ -12,6 +12,7 @@ C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\roslyn\System.Reflectio
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\roslyn\vbc.exe
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
@@ -29,6 +30,7 @@ C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Dep
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\WebActivator.dll
+C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
@@ -44,9 +46,7 @@ C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\doc\Store\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
-C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
-C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
-C:\doc\Store\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
