@@ -124,7 +124,7 @@ namespace SportsStore.UnitTests
             Assert.AreEqual(results[2], "Plums");
         }
         [TestMethod]
-        public void Indicates_Selected_Catewgory()
+        public void Indicates_Selected_Category()
         {
             Mock<IProductRepository> mock = new Mock<IProductRepository>();
             mock.Setup(m => m.Products).Returns(new Product[] {

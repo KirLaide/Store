@@ -67,7 +67,6 @@ C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\roslyn\VBCSCompi
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
-C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
@@ -99,6 +98,5 @@ C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPa
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
-C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\doc\StoreProject\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
