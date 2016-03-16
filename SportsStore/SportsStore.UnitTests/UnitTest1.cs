@@ -21,6 +21,7 @@ namespace SportsStore.UnitTests
         {
             //Организация
             Mock<IProductRepository> mock = new Mock<IProductRepository>();
+          
             mock.Setup(m => m.Products).Returns(new Product[] {
                 new Product {ProductID = 1, Name = "P1" },
                 new Product {ProductID = 2, Name = "P2" },
